@@ -1,2 +1,2 @@
-#!/bin/bahsh
-pwd
+#!/bin/bash
+ls
