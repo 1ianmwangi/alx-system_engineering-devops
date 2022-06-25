@@ -1,1 +1,1 @@
-Readme
+Script that prints pwd
